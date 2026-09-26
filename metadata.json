@@ -1,0 +1,6 @@
+{
+  "name": "Boost Productivity",
+  "description": "Offline-first personalized productivity assistant powered by local AI with task decomposition, time and energy management, activity heatmaps, and voice interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
